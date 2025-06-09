@@ -1,4 +1,56 @@
-# CodeIgniter 4 Application Starter
+# Human Resource Information System (HRIS)
+
+A comprehensive Human Resource Information System built with CodeIgniter 4, featuring modern UI components and interactive features.
+
+## Features
+
+- User Authentication and Authorization
+- Employee Management
+- Leave Management
+- Attendance Tracking
+- Payroll Management
+- Department Management
+- Position Management
+- Document Management
+- Reports Generation
+- Settings Management
+
+## Technologies Used
+
+### Framework and Core Technologies
+- CodeIgniter 4 (PHP Framework)
+- PHP 8.1 or higher
+- MySQL/MariaDB
+
+### Frontend Libraries
+- Tabler Core (UI Framework) - Version 1.0.0-beta21
+- jQuery - Version 3.7.1
+- SweetAlert2 - Version 11.15.10 (for beautiful alerts and notifications)
+- SweetAlert2 Borderless Theme - Version 5.0.26
+
+### Development Tools
+- PHPUnit for testing
+- Faker for generating test data
+- VFSStream for virtual filesystem testing
+
+## Project Structure
+
+The project follows a typical MVC (Model-View-Controller) architecture with the following components:
+
+- **Controllers/** - Contains the application's business logic
+- **Models/** - Database models and data handling
+- **Views/** - User interface templates
+- **Config/** - Application configuration files
+- **Services/** - Business logic services
+- **Validations/** - Form and data validation rules
+- **Enums/** - Enumeration classes
+- **Rules/** - Custom validation rules
+- **Libraries/** - Custom libraries
+- **Traits/** - Reusable PHP traits
+- **Filters/** - Request/Response filters
+- **Database/** - Database migrations and seeds
+- **Helpers/** - Helper functions
+- **Language/** - Internationalization files
 
 ## What is CodeIgniter?
 
