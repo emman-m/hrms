@@ -1,0 +1,31 @@
+{
+  "name": "hris",
+  "version": "1.0.0",
+  "description": "Human Resource Information System",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emman-m/hris.git"
+  },
+  "keywords": [
+    "hris"
+  ],
+  "author": "Emmanuel Magno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emman-m/hris/issues"
+  },
+  "homepage": "https://github.com/emman-m/hris#readme",
+  "dependencies": {
+    "@sweetalert2/theme-borderless": "^5.0.26",
+    "@tabler/core": "^1.0.0-beta21",
+    "jquery": "^3.7.1",
+    "sweetalert2": "^11.15.10"
+  }
+}
